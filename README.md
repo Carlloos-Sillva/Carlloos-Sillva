@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Técnico Projeto Trainee
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 💬 Futuro front end ✌😉
+- 💬 Futuro back end ✌😉
 - 📫 Contrate-me no email: carloos.sillva@outlook.com.br
 - 😄 Pronouns: ele/dele
  <div>
