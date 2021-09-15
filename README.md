@@ -5,6 +5,7 @@
 - 💬 Futuro Desenvolvedor Web ✌😉
 - 📫 Contrate-me no email: carloos.sillva@outlook.com.br
 - 😄 Pronouns: ele/dele
+
  <div>
   <a href="https://github.com/Carlloos-Sillva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlloos-Sillva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
