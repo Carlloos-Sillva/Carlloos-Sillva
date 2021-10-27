@@ -1,6 +1,6 @@
 ### Olá! Sou Carlos E. Silva  👋
 
-- 🔭 Hoje trabalho como Técnico Projeto Trainee
+- 🔭 Hoje trabalho como Estagiário de Desenvolvimento Web 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 💬 Futuro Desenvolvedor Web ✌😉
 - 📫 Contrate-me no email: carloos.sillva@outlook.com.br
