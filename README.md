@@ -1,6 +1,6 @@
 ### Olá! Sou Carlos E. Silva  👋
 
-- 🔭 Hoje trabalho Estagiário Desenvolvimento Web 
+- 🔭 Hoje Estagiário Desenvolvimento Web 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 💬 Futuro Desenvolvedor Web ✌😉
 - 📫 Contrate-me no email: carloos.sillva@outlook.com.br
